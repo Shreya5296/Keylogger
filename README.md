@@ -1,6 +1,6 @@
 # Keylogger
 
-Now run the keylogger.py
+Run the keylogger.py
 Save keylogger.py and send_email.py in the same location
 
 Due to google secure authentication, when you run the keylogger file, it may or may not send the mail
